@@ -1,6 +1,6 @@
 # Connect-Five
 
-#### Project Concept: Creating a Multi-Client Server Architecture to Spport a Game of Connect Five
+#### Project Concept: Creating a Multi-Client Server Architecture to Support a Game of Connect Five
 
 #### Setup Process:
 
